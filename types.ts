@@ -15,10 +15,8 @@ export interface Comment {
 export interface Project {
   id: string;
   title: string;
-  videoUrl: string; // This will now be the persistent cloud/proxy URL
+  videoUrl: string;
   thumbnailUrl: string;
   createdAt: number;
   comments: Comment[];
-  googleDriveFileId?: string; 
-  isCloudStored: boolean;
 }

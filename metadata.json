@@ -1,5 +1,5 @@
 {
-  "name": "Kozy Review - Cloud",
-  "description": "Professional video review tool with Google Drive cloud storage integration.",
+  "name": "Video Review Pro",
+  "description": "A professional video collaboration and review tool. Upload videos, add time-stamped comments, and see feedback overlayed in real-time as the video plays.",
   "requestFramePermissions": []
 }
